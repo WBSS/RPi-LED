@@ -4,7 +4,7 @@ RPi-LED
 Python-Applikation zum Tutorial auf www.wbss.ch/wikiIOT
 
 ##Installation
-Benötigte Packete:
+Benötigte Packete:  
 ```sudo aptitude install python-dev python-rpi.gpio python-pip```  
 ```sudo pip install -r requirements.txt```  
 
