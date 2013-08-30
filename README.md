@@ -14,7 +14,7 @@ BCM Numbering: http://elinux.org/RPi_Low-level_peripherals
 
 ##Usage
 Start der Applikation: sudo python led_server.py  
-Der UI ist dann unter der URL  
+Das UI ist mittels Browser unter der URL  
 ```http://<IP Adresse des Raspberry>:5000/control``` erreichbar.  
 Der Status der LED kann auch per GET Requests an /toggle_led gesetzt werden:  
 EIN: /toggle_led?led_state=1  
