@@ -10,6 +10,7 @@ Benötigte Packete:
 
 ##Wiring
 GPIO 4 (Gemäss BCM Schema) ---- 330 Ohm ---- (+) LED (-) ---- GND  
+BCM Numbering: http://elinux.org/RPi_Low-level_peripherals
 
 ##Usage
 Start der Applikation: sudo python led_server.py  
