@@ -4,9 +4,9 @@ RPi-LED
 Python-Applikation zum Tutorial auf www.wbss.ch/wikiIOT
 
 ##Installation
-Benötigte Packete:  
-    sudo aptitude install python-dev python-rpi.gpio python-pip  
-    sudo pip install -r requirements.txt  
+Benötigte Packete:
+```sudo aptitude install python-dev python-rpi.gpio python-pip```  
+```sudo pip install -r requirements.txt```  
 
 ##Wiring
 GPIO 4 (Gemäss BCM Schema) ---- 330 Ohm ---- (+) LED (-) ---- GND  
